@@ -1,0 +1,151 @@
+
+html {
+  position: relative;
+  min-height: 100%;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+body{
+  background-image: url("images/background3.png");
+
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-color: #ddd;
+  background-size: 50%;
+  margin: 0;
+  padding: 0;
+}
+
+footer{
+
+  background-color: black;
+
+  background-image: url("images/wallpaper.png");
+  background-repeat: repeat;
+  background-attachment: fixed;
+
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 30px;
+
+  color: white;
+  
+}
+
+h1{
+  font-size: 3.5vw;
+}
+
+.topnav {
+
+    overflow: hidden;
+    background-color: #f2a30b;
+    margin-bottom: 5%;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1px;
+    box-shadow: 1px 1px 2px 0.5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+  }
+  
+  .topnav a:hover {
+    color: #0b0b0b;
+  }
+
+  .topnav a:first-child{
+    background-color: #0b0b0b;
+    background-image: url("images/wallpaper.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+  }
+
+  .logo{
+    width: 10%;
+  }
+
+  .content{
+    width: 70%;
+    margin: 0 auto;
+    margin-left: 9%;
+    margin-bottom: 5%;
+    background-color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 75%;
+    padding-top: 2%;
+    /* box-shadow: 1px 1px 5px 0.5px rgba(0, 0, 0, 0.5); */
+    border: solid;
+    border-color: #c6c6c6;
+    border-width: 1px;
+    position: relative;
+
+  }
+
+  .info{
+    padding-top: 20px;
+    text-align: left;
+    font-family: 'Mulish', sans-serif;
+  }
+
+  .box{
+    
+    border: solid;
+    border-color: #dcdcdc;
+    border-width: 2px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    float: left;
+    
+  }
+
+  .text{
+    padding-right: 10px;
+    font-size: 1vw;
+  }
+
+
+  .panelImg{
+      float:left;
+      width: 15vw;
+      padding-top: 1%;
+      padding-right: 1%;
+  }
+
+  .summary {
+    padding-top: 20px;
+    font-size: 1.3vw;
+    font-family: 'Mulish', sans-serif;
+    text-align: center;
+  }
+
+
+  #welcomePhoto {
+      width: 65vw;
+      margin: 0;
+  }
+
+  #historyDp {
+      width: 65vw;
+      position: relative;
+  }
+
+
+
+  #shows {
+    width: 95%;
+  }
+
+  #error{
+    font-size: 1.5vw;
+    padding-bottom: 12%;
+  }
