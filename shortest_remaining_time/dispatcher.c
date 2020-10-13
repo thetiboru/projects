@@ -1,8 +1,4 @@
 /*
-dispatcher.c
-
-Student Name : Tibor Ukropina
-Student ID # : 0961384
 
 Dispatch Algorithm : Shortest Remaining Time
 
