@@ -1,0 +1,4 @@
+# Do not edit the contents of this file.
+# Your code must compile using ths command.
+a2: *.c
+	gcc -Wall -g -std=c11 -o Dispatcher *.c
