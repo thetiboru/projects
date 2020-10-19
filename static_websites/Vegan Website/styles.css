@@ -1,0 +1,213 @@
+    ol{
+        font-size: 1.5vw;
+        color: #00c613;
+        font-family: 'Muli', sans-serif;
+        position: relative;
+        padding-left: 10%;
+        padding-top: 2%;
+    }    
+    h3{
+        font-family: 'Muli', sans-serif;
+        font-size: 1.6vw;
+        color: #00c613;
+        padding-left: 22%;
+        padding-bottom: 1%;
+        padding-top: 3%;
+    }
+    .header {
+        position: relative;
+        display: flex;
+    }
+    
+    .navbar {
+    font-family: 'Muli', sans-serif;
+    background-color: #ffffff;
+    overflow: hidden;
+    box-shadow: 1px 1px 5px 15px rgba(0, 0, 0, 0.5);
+    }
+
+    .navbar a {
+    float: left;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 17px;
+    }
+
+    .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+    }
+
+    .content{
+        font-family: 'Muli', sans-serif;
+        color: black;
+        font-weight: 200;
+        font-size: 1.1vw;
+        padding-top: 1.5%;
+        padding-bottom: 3%;
+        text-align: left;
+    }
+
+    .recipie{
+        position: relative;
+    }
+
+    .recipiepics{
+        float: left;
+    }
+
+    .description{
+        font-family: 'Muli', sans-serif;
+        font-weight: 200;
+        font-size: 1.2vw;
+
+    }
+
+    #title {
+        font-family: 'Muli', sans-serif;
+        position: absolute;
+        top: 25%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 4vw;
+        color: #ffffff;
+        text-shadow: 3px 4px 10px rgba(0, 0, 0, 0.5);;
+        
+    }
+
+    #title2 {
+        font-family: 'Muli', sans-serif;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 3vw;
+        color: #ffffff;
+        font-weight: 200;
+        
+    }
+
+    #subtitle {
+        color: #ffffff;
+        font-family: 'Muli', sans-serif;
+        font-weight: 300;
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 1.7vw;
+        text-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);;
+    }
+
+    #heading {
+    padding: 10px 25px;
+    font-family: 'Alegreya', serif;   
+    font-size: 23px;
+    letter-spacing: 3px;
+    }
+
+    #container2{
+        background: #fcfcfc;
+    }
+
+    #logo{
+    width: 12%;
+    padding-right: 5px;
+    }
+
+    #pigs{
+        width: 100%;
+    }
+
+    #article1{
+
+        color: black;
+        font-family: 'Muli', sans-serif;
+        position: relative;
+        font-size: 1.6vw;
+        padding-left: 33%;
+        padding-top: 2%;
+    }
+
+    #cowpic{
+        width: 60%;
+        padding-bottom: 3%;
+    }
+
+    #panel2 {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    #foods{
+        width: 100%;
+        margin: 0;
+    }
+
+    #title3{
+        text-align: center;
+        font-family: 'Muli', sans-serif;
+        font-weight: 200;
+        padding-left: 21%;
+        padding-top: 4%;
+        font-size: 2.8vw;
+        padding-bottom: 5%;
+    }
+
+    #icon{
+        position: absolute;
+        top: 65%;
+        left: 19.5%;
+        transform: translate(-50%, -50%);
+        width: 1.6%;
+    }
+
+    #article2{
+        background: #fcfcfc;
+        padding-bottom: 5%;
+    }
+
+    #subtitle2{
+        font-family: 'Muli', sans-serif;
+        text-align: center;
+        font-weight: 300;
+        padding-bottom: 5%;
+        font-size: 1.5vw;
+    }
+
+    #toast{
+        width: 40%;
+        padding-left: 10%;
+        padding-right: 3.5%;
+    }
+
+    #curry{
+        width: 40%;
+        padding-left: 10%;
+        padding-right: 3.5%;
+        padding-bottom: 5%;
+    }
+
+    #currytitle{
+        padding-left: 18%;
+    }
+
+    #search{
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 60%;
+        height: 13%;
+        outline: none;
+        border: 0px solid;
+        font-family: 'Muli', sans-serif;
+        font-size: 1vw;
+        padding-left: 5%;
+        border-radius: 3px;
+
+    }
