@@ -69,9 +69,6 @@ app.get('/uploads/:name', function(req , res){
   });
 });
 
-//******************** Your code goes here ******************** 
-
-
 let sharedLib = ffi.Library('./libsvgparse', {
   'validateSVG': ['bool', ['string'] ],
   'getImgJson': [ 'string', [ 'string' ] ],
