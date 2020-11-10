@@ -26,7 +26,6 @@ app.get('/',function(req,res){
 
 // Send Style, do not change
 app.get('/style.css',function(req,res){
-  //Feel free to change the contents of style.css to prettify your Web app
   res.sendFile(path.join(__dirname+'/public/style.css'));
 });
 
